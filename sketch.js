@@ -44,9 +44,9 @@ let donut, dImg
 var cake;
 
 //AFTER-WIN
-swalImg;
+var swalImg;
 //AFTER-WIN SOUND
-winSng;
+var winSng;
 
 function preload()
 {
